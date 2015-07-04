@@ -1,0 +1,6 @@
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\ring1\bin\Debug\ring1.exe.config
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\ring1\bin\Debug\ring1.exe
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\ring1\bin\Debug\ring1.pdb
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\ring1\obj\Debug\ring1.csprojResolveAssemblyReference.cache
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\ring1\obj\Debug\ring1.exe
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\ring1\obj\Debug\ring1.pdb

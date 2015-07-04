@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ring1", "ring1\ring1.csproj", "{CCF38788-3D39-432B-A6E1-13369BD8BA2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bridge", "bridge\bridge.csproj", "{23F4022A-B4D5-4326-B473-E94A31E9407D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ring2", "ring2\ring2.csproj", "{98E629F8-CD45-4FAB-98C1-E339E61FE65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF38788-3D39-432B-A6E1-13369BD8BA2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF38788-3D39-432B-A6E1-13369BD8BA2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF38788-3D39-432B-A6E1-13369BD8BA2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF38788-3D39-432B-A6E1-13369BD8BA2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F4022A-B4D5-4326-B473-E94A31E9407D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F4022A-B4D5-4326-B473-E94A31E9407D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F4022A-B4D5-4326-B473-E94A31E9407D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F4022A-B4D5-4326-B473-E94A31E9407D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98E629F8-CD45-4FAB-98C1-E339E61FE65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98E629F8-CD45-4FAB-98C1-E339E61FE65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98E629F8-CD45-4FAB-98C1-E339E61FE65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98E629F8-CD45-4FAB-98C1-E339E61FE65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\bridge\obj\Debug\bridge.csprojResolveAssemblyReference.cache
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\bridge\bin\Debug\cse353_p3_andrew_burns.exe.config
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\bridge\bin\Debug\cse353_p3_andrew_burns.exe
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\bridge\bin\Debug\cse353_p3_andrew_burns.pdb
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\bridge\obj\Debug\cse353_p3_andrew_burns.exe
+C:\Users\AJ\SkyDrive\Documents\Visual Studio 2012\Projects\cse353_p3_andrew_burns\bridge\obj\Debug\cse353_p3_andrew_burns.pdb
